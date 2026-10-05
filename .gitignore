@@ -54,3 +54,6 @@ __pycache__/
 PROMPT.md
 prompt.md
 
+
+# Large raw graphics source files
+*.psd
